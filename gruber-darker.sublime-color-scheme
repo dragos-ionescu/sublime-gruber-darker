@@ -1,7 +1,7 @@
 {
     "name": "Gruber Darker",
     "author": "Dragoș Ionescu",
-    "comments": "The Gruber Darker color scheme for Sublime is inspired by rexim aka Tsoding aka Alexey Kutepov, which is a darker adaptation of John Gruber's original Gruber Dark theme.",
+    "comments": "The Gruber Darker color scheme for Sublime is inspired by rexim aka Tsoding aka Alexey Kutepov's Gruber Darker theme, which is a darker adaptation of John Gruber's original Gruber Dark theme.",
     "variables":
     {
         "fg":        "#e4e4ef",
@@ -200,12 +200,12 @@
         {
             "name": "markup headings",
             "scope": "markup.heading punctuation.definition.heading",
-            "foreground": "var(red)"
+            "foreground": "var(yellow)"
         },
         {
             "name": "markup h1",
             "scope": "markup.heading.1 punctuation.definition.heading",
-            "foreground": "var(red)"
+            "foreground": "var(yellow)"
         },
         {
             "name": "markup links",
